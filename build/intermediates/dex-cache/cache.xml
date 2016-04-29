@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/oleg/work/KinsaTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/oleg/work/KinsaTest/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.3.0_a11ab46e1edaa19ecd7d888404731d1a16eea8ec.jar" />
+    </item>
+    <item
+        jar="/home/oleg/work/KinsaTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/home/oleg/work/KinsaTest/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.4.0_54a8b69ae981ea1d470492dc9d2e8736acf04853.jar" />
+    </item>
+    <item
+        jar="/home/oleg/work/KinsaTest/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/home/oleg/work/KinsaTest/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0_e8689a7ef94c96d37c3619f14edd06186beee207.jar" />
+    </item>
+    <item
+        jar="/home/oleg/work/KinsaTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="/home/oleg/work/KinsaTest/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-8.4.0_deee6855341019ffb0d30fef06dd9eb9860f554a.jar" />
+    </item>
+    <item
+        jar="/home/oleg/work/KinsaTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="/home/oleg/work/KinsaTest/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-8.4.0_a5f10f039c4d31a90782bf41b3351faa094e5747.jar" />
+    </item>
+    <item
+        jar="/home/oleg/work/KinsaTest/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/home/oleg/work/KinsaTest/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.3.0_3d6dcd3f68ac31acc74cd15c4895a2f49b79b505.jar" />
+    </item>
+    <item
+        jar="/home/oleg/work/KinsaTest/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/home/oleg/work/KinsaTest/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.3.0_b8311fe430a321db33cad1a8b093946df6f34f8d.jar" />
+    </item>
+    <item
+        jar="/home/oleg/work/KinsaTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/home/oleg/work/KinsaTest/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.4.0_0eb7b70ff6d8c7df2cda6711881ff298b4b54453.jar" />
+    </item>
+    <item
+        jar="/home/oleg/work/KinsaTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="/home/oleg/work/KinsaTest/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-8.4.0_b38bb8f1d55a18cc4586edac739be9cb84de2b20.jar" />
+    </item>
+    <item
+        jar="/home/oleg/work/KinsaTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="/home/oleg/work/KinsaTest/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-8.4.0_864549512b39eeca8d1c355c0be1b0f8ad0969b3.jar" />
+    </item>
+    <item
+        jar="/home/oleg/work/KinsaTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="/home/oleg/work/KinsaTest/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-8.4.0_b3bd3e35df76cec9640215d824ea74d1d597887f.jar" />
+    </item>
+    <item
+        jar="/home/oleg/work/KinsaTest/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/home/oleg/work/KinsaTest/app/build/intermediates/pre-dexed/debug/com.android.support-mediarouter-v7-23.0.0_94363cb39ea5b72f9593b198dd3b96ec28ca6a1b.jar" />
+    </item>
+    <item
+        jar="/home/oleg/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/oleg/work/KinsaTest/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_f4b84df40fc0e3b42f071e825c6d3f53974dca82.jar" />
+    </item>
+    <item
+        jar="/home/oleg/work/KinsaTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="/home/oleg/work/KinsaTest/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-8.4.0_0f1e5a1aa92492932bce60cef4aeeb77ee28300f.jar" />
+    </item>
+    <item
+        jar="/home/oleg/work/KinsaTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/home/oleg/work/KinsaTest/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.3.0_2dbe3d626818619d6a6175faefdf5980a7bcee81.jar" />
+    </item>
+    <item
+        jar="/home/oleg/work/KinsaTest/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/home/oleg/work/KinsaTest/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.3.0_696796c6a7090f6a45b2f391f41c98768c3abb31.jar" />
+    </item>
+    <item
+        jar="/home/oleg/work/KinsaTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="/home/oleg/work/KinsaTest/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-8.4.0_a7d29f2650067e269aae9d1fa3b6714a001073c6.jar" />
+    </item>
+    <item
+        jar="/home/oleg/work/KinsaTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="/home/oleg/work/KinsaTest/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-8.4.0_63f7b8c70687a893bfd50e553c6f8a1f5757a71f.jar" />
+    </item>
+    <item
+        jar="/home/oleg/work/KinsaTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/oleg/work/KinsaTest/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_b352e9caa8055cc817c005fff4272ed73daf7d57.jar" />
+    </item>
+    <item
+        jar="/home/oleg/work/KinsaTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="/home/oleg/work/KinsaTest/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-8.4.0_e30229dbaca0b334dadfacb171a085e9b5f8b838.jar" />
+    </item>
+    <item
+        jar="/home/oleg/work/KinsaTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="/home/oleg/work/KinsaTest/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-8.4.0_fcce79749691196c199d35e0e3b71755a4a5bc6d.jar" />
+    </item>
+    <item
+        jar="/home/oleg/work/KinsaTest/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/home/oleg/work/KinsaTest/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.3.0_47fb62873fa7fc7c0a0007ed9d5a3debc888b531.jar" />
+    </item>
+    <item
+        jar="/home/oleg/work/KinsaTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="/home/oleg/work/KinsaTest/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-8.4.0_d692c4ecb3cbdd4f867b7c25abfc0ead805ae10d.jar" />
+    </item>
+    <item
+        jar="/home/oleg/work/KinsaTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="/home/oleg/work/KinsaTest/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-8.4.0_8265997514f3f418fb73e921dbf096afdd856d6b.jar" />
+    </item>
+    <item
+        jar="/home/oleg/work/KinsaTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/home/oleg/work/KinsaTest/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_4150b2610919cc46ae0eb300394b77835966047c.jar" />
+    </item>
+    <item
+        jar="/home/oleg/work/KinsaTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="/home/oleg/work/KinsaTest/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-8.4.0_d3b7ea35065fe4273edc5d6f3a6676120c8d387a.jar" />
+    </item>
+    <item
+        jar="/home/oleg/work/KinsaTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="/home/oleg/work/KinsaTest/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-8.4.0_37f92d91649b6d9af6baffebf7b34b4e85c31dce.jar" />
+    </item>
+    <item
+        jar="/home/oleg/work/KinsaTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="/home/oleg/work/KinsaTest/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appinvite-8.4.0_1810e43540f00253be998550b4ff44464c7d9264.jar" />
+    </item>
+    <item
+        jar="/home/oleg/work/KinsaTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="/home/oleg/work/KinsaTest/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-measurement-8.4.0_77cd1b5130e8662665d8d5b4c60b95d9b154e62d.jar" />
+    </item>
+    <item
+        jar="/home/oleg/work/KinsaTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/home/oleg/work/KinsaTest/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-8.4.0_1fbdb2d1d9ab57fdf547154c9c47782e7fb720ac.jar" />
+    </item>
+    <item
+        jar="/home/oleg/work/KinsaTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="/home/oleg/work/KinsaTest/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-8.4.0_d3493e4994c4ae4a5220eab487a2bd6af04dafd5.jar" />
+    </item>
+    <item
+        jar="/home/oleg/work/KinsaTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="/home/oleg/work/KinsaTest/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-8.4.0_79c00d953098630810af65ef7ad66c9145c7287e.jar" />
+    </item>
+    <item
+        jar="/home/oleg/work/KinsaTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="/home/oleg/work/KinsaTest/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wallet-8.4.0_df0f01f57e58de64b0c7fa7582f8cb9ba9ff121f.jar" />
+    </item>
+
+</items>
