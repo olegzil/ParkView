@@ -63,8 +63,8 @@ public class LocationTracker implements GoogleApiClient.ConnectionCallbacks, Goo
 
     public void stop() {
         if (mGoogleApiClient != null) {
-            mGoogleApiClient.disconnect();
             stopLocationUpdates();
+            mGoogleApiClient.disconnect();
         }
     }
 
